@@ -1,0 +1,25 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated files
+outputs/*
+!outputs/.gitkeep
+
+# Uploaded documents and local data
+data/*
+!data/.gitkeep
+!data/sample_sales.csv
+!data/sample_sales.xlsx
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db

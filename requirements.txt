@@ -1,0 +1,14 @@
+openai
+python-dotenv
+pandas
+numpy
+matplotlib
+pypdf
+pdfplumber
+fastapi
+uvicorn
+python-multipart
+streamlit
+pytest
+httpx
+ollama
